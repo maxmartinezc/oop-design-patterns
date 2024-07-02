@@ -1,10 +1,11 @@
 {
   "name": "oop-design-patterns",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "OOP Design Patterns",
   "main": "main.ts",
   "scripts": {
-    "start:decorator": "ts-node decorator/main.ts"
+    "start:decorator": "ts-node decorator/main.ts",
+    "start:adapter": "ts-node adapter/main.ts"
   },
   "author": "Max Martinez (https://maxmartinez.dev/)",
   "license": "ISC",
